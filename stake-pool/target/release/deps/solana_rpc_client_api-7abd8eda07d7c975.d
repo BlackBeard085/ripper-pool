@@ -1,0 +1,10 @@
+/home/BlackBeard/ripperpool/stake-pool/target/release/deps/libsolana_rpc_client_api-7abd8eda07d7c975.rmeta: /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/client_error.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/custom_error.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/response.rs
+
+/home/BlackBeard/ripperpool/stake-pool/target/release/deps/libsolana_rpc_client_api-7abd8eda07d7c975.rlib: /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/client_error.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/custom_error.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/response.rs
+
+/home/BlackBeard/ripperpool/stake-pool/target/release/deps/solana_rpc_client_api-7abd8eda07d7c975.d: /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/client_error.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/custom_error.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/response.rs
+
+/home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/lib.rs:
+/home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/client_error.rs:
+/home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/custom_error.rs:
+/home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-rpc-client-api-2.3.4/src/response.rs:

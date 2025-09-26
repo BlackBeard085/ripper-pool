@@ -1,0 +1,10 @@
+/home/BlackBeard/ripperpool/stake-pool/target/release/deps/libsolana_cli_output-d7f7b36f155d4955.rmeta: /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/cli_output.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/cli_version.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/display.rs
+
+/home/BlackBeard/ripperpool/stake-pool/target/release/deps/libsolana_cli_output-d7f7b36f155d4955.rlib: /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/cli_output.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/cli_version.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/display.rs
+
+/home/BlackBeard/ripperpool/stake-pool/target/release/deps/solana_cli_output-d7f7b36f155d4955.d: /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/cli_output.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/cli_version.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/display.rs
+
+/home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/lib.rs:
+/home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/cli_output.rs:
+/home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/cli_version.rs:
+/home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-cli-output-2.3.4/src/display.rs:

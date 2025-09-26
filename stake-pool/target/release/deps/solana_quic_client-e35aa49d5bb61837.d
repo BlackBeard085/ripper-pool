@@ -1,0 +1,10 @@
+/home/BlackBeard/ripperpool/stake-pool/target/release/deps/libsolana_quic_client-e35aa49d5bb61837.rmeta: /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/nonblocking/mod.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/nonblocking/quic_client.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/quic_client.rs
+
+/home/BlackBeard/ripperpool/stake-pool/target/release/deps/libsolana_quic_client-e35aa49d5bb61837.rlib: /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/nonblocking/mod.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/nonblocking/quic_client.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/quic_client.rs
+
+/home/BlackBeard/ripperpool/stake-pool/target/release/deps/solana_quic_client-e35aa49d5bb61837.d: /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/nonblocking/mod.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/nonblocking/quic_client.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/quic_client.rs
+
+/home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/lib.rs:
+/home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/nonblocking/mod.rs:
+/home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/nonblocking/quic_client.rs:
+/home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-2.3.4/src/quic_client.rs:

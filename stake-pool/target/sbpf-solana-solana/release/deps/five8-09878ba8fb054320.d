@@ -1,0 +1,11 @@
+/home/BlackBeard/ripperpool/stake-pool/target/sbpf-solana-solana/release/deps/libfive8-09878ba8fb054320.rmeta: /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/decode.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/encode.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/unlikely.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/../README.md
+
+/home/BlackBeard/ripperpool/stake-pool/target/sbpf-solana-solana/release/deps/libfive8-09878ba8fb054320.rlib: /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/decode.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/encode.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/unlikely.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/../README.md
+
+/home/BlackBeard/ripperpool/stake-pool/target/sbpf-solana-solana/release/deps/five8-09878ba8fb054320.d: /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/decode.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/encode.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/unlikely.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/../README.md
+
+/home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/lib.rs:
+/home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/decode.rs:
+/home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/encode.rs:
+/home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/unlikely.rs:
+/home/BlackBeard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/../README.md:

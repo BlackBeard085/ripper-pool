@@ -1,0 +1,8 @@
+/home/BlackBeard/ripperpool/stake-pool/target/release/deps/libslab-3ce4a2b1e6f15f58.rmeta: /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slab-0.4.9/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slab-0.4.9/src/builder.rs
+
+/home/BlackBeard/ripperpool/stake-pool/target/release/deps/libslab-3ce4a2b1e6f15f58.rlib: /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slab-0.4.9/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slab-0.4.9/src/builder.rs
+
+/home/BlackBeard/ripperpool/stake-pool/target/release/deps/slab-3ce4a2b1e6f15f58.d: /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slab-0.4.9/src/lib.rs /home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slab-0.4.9/src/builder.rs
+
+/home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slab-0.4.9/src/lib.rs:
+/home/BlackBeard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slab-0.4.9/src/builder.rs:
